@@ -1,2 +1,2 @@
 # Python_Projects
-python sprojects
+This contains some basic common projects from begginer to intermediate
